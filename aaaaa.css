@@ -1,0 +1,21 @@
+display : flex
+         inline-flex 
+ .container {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  }
+  .item {
+  flex: 2;
+  padding: 10px;
+  background-color: lightcoral;
+  }
+  .nav{
+    text-align: center;
+       
+}
+#h1{
+    text-align: center;
+    color: blue;
+}
+          
